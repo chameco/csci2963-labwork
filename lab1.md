@@ -19,6 +19,7 @@ Reading the story of Jesse Jordan gave me some new perspective on the rather wel
 
 Linux
 =====
+![Screenshot of tree](images/tree.png)
 
 Regex
 =====
