@@ -1,3 +1,3 @@
-Name: Samuel Breese
-Email: breess@rpi.edu
-Slack Handle: chameco
+ - Name: Samuel Breese
+ - Email: breess@rpi.edu
+ - Slack Handle: chameco
