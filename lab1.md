@@ -23,6 +23,9 @@ Linux
 
 Regex
 =====
+![Screenshot of regex puzzle](images/regex.png)
+![Screenshot of tutorial](images/tutorial.png)
+![Screenshot of beginner challenges](images/beginner.png)
 
 Snap/CSDT/Blockly
 =================
