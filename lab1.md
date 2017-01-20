@@ -15,6 +15,7 @@ How to answer questions helpfully:
 
 Free Culture
 ------------
+Reading the story of Jesse Jordan gave me some new perspective on the rather well-known Rensselaer music piracy incident of the early 2000s. Although the incident is well known to many of the more tech-savvy students, frequently being cited in discussions of Institute policy on internet piracy, I had not previously been privy to the details. The situation mirrors a common one today, now associated with the more recent plague of so-called "patent trolls": the prohibitive cost of legal action effectively allows any corporation to bully almost any individual (barring the most wealthy) with impunity. Internet copyright and patent law in America today seems almost a perfect storm for this sort of extortion, what with its combination of an ephemeral good that costs near to nothing to distribute, massive hourly legal fees, and legal loopholes that allow knowledgeable corporate lawyers to prolong cases for years, laying siege to their opponents' meager wallets. In Jesse Jordan's case, the typical patent troll victory was foreshadowed a decade in advance: it was simply too expensive for the accused to go to court, even if they were legally in the right, so they were forced to effectively "pay off" the accuser. Perhaps if more people had witnessed this very case and others like it at the time, the situation would be different today. Organizations like the RIAA and contemporary patent trolls cannot be allowed to sustain themselves with extortion and legal trickery.
 
 Linux
 =====
