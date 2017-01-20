@@ -8,7 +8,9 @@ Being familiar with Richard Stallman's Free Software movement, I was struck by t
 How To Ask Questions The Smart Way
 ----------------------------------
 How to answer questions helpfully:
+
 1) Empathize with the person asking the question. Often, new community members tend to become frustrated if they are unable to find a solution. It is important in these cases to realize and understand this frustration and provide data in a non-combative manner that will not elevate the situation.
+
 2) Reward high-effort questions. In especially busy project IRC/Slack channels, there is often a glut of questions, more than what can be feasibly answered. Preferentially answering questions from those users that do their research, use proper grammar, conform to project convention, and in general are polite and earnest ensures that your community continues to operate effectively.
 
 Free Culture
