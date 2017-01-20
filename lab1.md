@@ -62,10 +62,11 @@ This underlying calculus has 11 terms. It's unusual among functional languages t
 
 The Pi and Sigma types are the two "primitive" type operators, allowing the creation of functions and tuples, both of which allow the second type to depend upon the value of the first. For example, say you had a function f from integers to types that returned the Integer type when passed a 0 and the String type when passed any other value (this can be implemented in practice trivially using pattern matching). Using this function, a function from Integer to either Integer or String based on f could be give a type in the core calculus as "Pi Integer f": a function from integer to the result of f. Of course, ordinary functions can be given types very easily by simply using an "f" that disregards its input and always returns a specific type. For example, a function from String to Integer in both Haskell and this calculus:
 
-Haskell: String -> Integer
-This: Pi String (Lambda String Integer)
+Haskell: `String -> Integer`
 
-where Lambda String Integer is a function taking a string as input and returning the type Integer.
+This: `Pi String (Lambda String Integer)`
+
+where Lambda String Integer is a function taking a string as input and returning the type Integer. Of course, this doesn't reflect long-term syntax, just the representation currently being used for the core calculus.
 
 The same general principle holds for Sigma, which creates tuples where the type of the second element depends upon the first. The Sigma type could have been written in terms of the Pi type (and was originally), but since tuples are used so widely throughout the language I made them atomic for performance.
 
