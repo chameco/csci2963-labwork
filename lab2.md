@@ -39,3 +39,4 @@ https://github.com/AesaKamar/Pokedex | No | N/A
 https://github.com/slickos/slickos | Yes | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 https://github.com/Behemyth/Soul-Engine | Yes | [GNU GPL 3](https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_3)
 
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
