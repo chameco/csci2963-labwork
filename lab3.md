@@ -8,3 +8,9 @@ https://github.com/chameco/lab3part1
 Part 2
 ======
 ![Screenshot of Learn Git Branching](images/learngitbranching.png)
+
+Part 3
+======
+
+https://github.com/swood456/Story-Spring2017
+https://github.com/chameco/courseproject
