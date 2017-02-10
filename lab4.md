@@ -1,0 +1,5 @@
+![Part 1](images/lab4part1.png)
+![Part 2](images/lab4part2.png)
+![Part 3](images/lab4part3.png)
+![Part 4](images/lab4part4.png)
+![Part 5](images/lab4part5.png)
