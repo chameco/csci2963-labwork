@@ -1,3 +1,7 @@
+![R 1](images/r1.png)
+
+![R 2](images/r2.png)
+
 On Reliquary Development
 ------------------------
 Last week, I changed Reliquary's internal error-handling to use a flatter monad transformer stack.
